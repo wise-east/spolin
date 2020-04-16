@@ -5,6 +5,7 @@
 This is the repo for the paper ["Grounding Conversations with Improvised Dialogues"]() (ACL2020). 
 SPOLIN is a collection of "Yes, and" type dialogue pairs extracted from the Spontaneanation podcast by Paul F. Tompkins, the Cornell Movie Corpus, and the SubTle corpus.  
 
+Core data is in the data/ folder. 
 
 
 Project page: https://justin-cho.com/spolin
@@ -18,8 +19,9 @@ Demo: https://spolin.isi.edu
 || Yes-ands| Non-yes-ands|
 |--|---:|---:|
 |Spontaneanation|10,959|6,087*|
-|Cornell|12,716|17,588|
-|Total|23,675|23,675|
+|Cornell|16,926|18,810|
+|SubTle|40,303|19,512|
+|Total|68,188|44,409|
 
 \*Artificially collected by mix & match of positive Spontaneanation samples
 
@@ -28,9 +30,10 @@ Demo: https://spolin.isi.edu
 
 || Yes-ands| Non-yes-ands|
 |--|---:|---:|
-|Spontaneanation|10,459|5,503*|
-|Cornell|12,216|17,088|
-|Total|22,675|22,675|
+|Spontaneanation|10,459|5,587*|
+|Cornell|16,426|18,310|
+|SubTle|40,303|19,512|
+|Total|67,188|43,409|
 
 
 ### Validation set: `yesand_valid.json`
