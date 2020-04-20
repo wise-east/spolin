@@ -31,8 +31,8 @@ Each second level item is a list of _yesands_ or non-_yesands_. Each item contai
 || yesands| non-yesands|
 |--|---:|---:|
 |Spontaneanation|10,459|5,587*|
-|Cornell|14,976|17,351|
-|Total|25,435|22,938|
+|Cornell|14,976|17,851|
+|Total|25,435|23,438|
 
 ##### `spolin-valid.json`: 
 

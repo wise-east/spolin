@@ -1,5 +1,5 @@
 # SPOLIN
-------
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 ### SPOLIN: Spontaneanation Pairs of Learnable ImprovisatioN
 
@@ -32,7 +32,7 @@ Paper: Link coming soon
 |SubTle|40,303|19,512|
 |Total|68,188|44,409|
 
-\*Artificially collected by mix & matching positive Spontaneanation samples to balance dataset 
+\*Artificially collected by mix & matching positive Spontaneanation samples to balance dataset for training classifier
 
 
 <table>
@@ -69,3 +69,15 @@ If you use data or code in this repository, please cite our ACL2020 paper:
     year={2020}
 }  
 ```
+
+
+### License
+
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: http://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
