@@ -16,6 +16,10 @@ In the `data` folder, we provide two versions of the SPOLIN training set:
 2. Expanded version: `data/spolin-train.json`
 
 
+### Upcoming updates: 
+
+We will release publicly available download links to our classifier and fine-tuned GPT-2 models soon. 
+
 #### Relevant links: 
 
 Project page: https://justin-cho.com/spolin
