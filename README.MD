@@ -22,9 +22,9 @@ We will release publicly available download links to our classifier and fine-tun
 
 #### Relevant links: 
 
-Project page: https://justin-cho.com/spolin
-Demo: https://spolin.isi.edu
-Paper: https://arxiv.org/abs/2004.09544
+* Project page: https://justin-cho.com/spolin
+* Demo: https://spolin.isi.edu
+* Paper: https://arxiv.org/abs/2004.09544
 
 
 
