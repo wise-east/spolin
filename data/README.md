@@ -9,7 +9,7 @@
 
 **Second level keys:**
 * `spont`: shorthand for Spontaneanation
-* `cornell`: shorthand for Cornell Movie Dialogue Corpus 
+* `cornell`: shorthand for Cornell Movie-Dialogs Corpus 
 * `subtle`: (not present in `spolin-valid.json`) shorthand for  SubTle Corpus 
 
 Each second level item is a list of _yesands_ or non-_yesands_. Each item contains the following: 
