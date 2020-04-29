@@ -21,7 +21,7 @@ In the `data` folder, we provide two versions of the SPOLIN training set:
 We make our _yes-and_ classifier from our last iteration that filters out self-_yes-and_s and fine-tuned DialoGPT models available: 
 
 * [Yes-and classifier](https://drive.google.com/open?id=1My_8SGJHR43bLHepYAl6O8WG1fbH9_9P)
-* [Fine-tuned GPT-2 model weights]()
+* [Fine-tuned GPT-2 model weights](https://drive.google.com/open?id=1-uX2vTqMyOge2l-dhcWEVfoXlotRhSK3)
 * [Reverse GPT-2 model weights](https://convaisharables.blob.core.windows.net/lsp/multiref/small_reverse.pkl) (from [DialoGPT](https://github.com/microsoft/DialoGPT) repo): make sure to rename `small_reverse.pkl` to `medium_reverse.pkl` for using with the script files in this repo. 
 
 For instructions and details on training or inferencing with these models, refer to the READMEs in each respective folder. Please raise an issue if there are any problems with the links and the script for using these models. 

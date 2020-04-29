@@ -7,7 +7,7 @@ For fine-tuning the DialoGPT model with SPOLIN, follow the steps in the [DialoGP
 
 #### Minimal Requirements for Inference
 
-1. Make sure to [download]() and extract the model weights (`.pkl` file), `config.json`, `merges.txt`, and `vocab.json`. Also, download the [reverse GPT-2 model weights](https://convaisharables.blob.core.windows.net/lsp/multiref/small_reverse.pkl) and rename to `medium_reverse.pkl`.  All of these files must be in the same directory as `mmi-interact.py`. 
+1. Make sure to [download](https://drive.google.com/open?id=1-uX2vTqMyOge2l-dhcWEVfoXlotRhSK3) and extract the model weights (`.pkl` file), `config.json`, `merges.txt`, and `vocab.json`. Also, download the [reverse GPT-2 model weights](https://convaisharables.blob.core.windows.net/lsp/multiref/small_reverse.pkl) and rename to `medium_reverse.pkl`.  All of these files must be in the same directory as `mmi-interact.py`. 
 
 2. The minimal package requirements for inference, i.e. using `mmi-interact.py`, can be found in `requirements.txt`. Use this file to set up and activate the appropriate environment for using the scripts. 
 
