@@ -8,7 +8,7 @@ SPOLIN is a collection of more than 68,000 "Yes, and" type dialogue pairs extrac
 
 
 #### Available SPOLIN versions:
-The core dataset that was used for the experiments in the paper only includes _yesands_ and non-_yesands_ from Spontaneanation and most of what is provided in those extracted from the Cornell Movie-Dialogs Corpus. After the submitting the paper, we continued our iterative data augmentation process, repeating another iteration with the Cornell Movie-Dialogs Corpus and extracting from the SubTle corpus. This expanded version is also included in this repository [here](/data). This latest version of SPOLIN was used to train the model used in our [demo](https://spolin.isi.edu). 
+The core dataset that was used for the experiments in the paper only includes _yes-ands_ and non-_yes-ands_ from Spontaneanation and most of what is provided in those extracted from the Cornell Movie-Dialogs Corpus. After the submitting the paper, we continued our iterative data augmentation process, repeating another iteration with the Cornell Movie-Dialogs Corpus and extracting from the SubTle corpus. This expanded version is also included in this repository [here](/data). This latest version of SPOLIN was used to train the model used in our [demo](https://spolin.isi.edu). 
 
 
 In the `data` folder, we provide two versions of the SPOLIN training set: 
@@ -16,9 +16,15 @@ In the `data` folder, we provide two versions of the SPOLIN training set:
 2. Expanded version: `data/spolin-train.json`
 
 
-### Upcoming updates: 
+#### Update (4/28/2020): 
 
-We will release publicly available download links to our classifier and fine-tuned GPT-2 models and their relevant scripts soon. 
+We make our _yes-and_ classifier from our last iteration that filters out self-_yes-and_s and fine-tuned DialoGPT models available: 
+
+* [Yes-and classifier](https://drive.google.com/open?id=1My_8SGJHR43bLHepYAl6O8WG1fbH9_9P)
+* [Fine-tuned GPT-2 model weights]()
+* [Reverse GPT-2 model weights](https://convaisharables.blob.core.windows.net/lsp/multiref/small_reverse.pkl) (from [DialoGPT](https://github.com/microsoft/DialoGPT) repo): make sure to rename `small_reverse.pkl` to `medium_reverse.pkl` for using with the script files in this repo. 
+
+For instructions and details on training or inferencing with these models, refer to the READMEs in each respective folder. Please raise an issue if there are any problems with the links and the script for using these models. 
 
 #### Relevant links: 
 

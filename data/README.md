@@ -12,7 +12,7 @@
 * `cornell`: shorthand for Cornell Movie-Dialogs Corpus 
 * `subtle`: (not present in `spolin-valid.json`) shorthand for  SubTle Corpus 
 
-Each second level item is a list of _yesands_ or non-_yesands_. Each item contains the following: 
+Each second level item is a list of _yes-ands_ or non-_yes-ands_. Each item contains the following: 
 * `id`: dataset ID
 * `prompt`: Utterance that starts the dialogue turn 
 * `response`: Response to the prompt
