@@ -76,6 +76,8 @@ If you use data or code in this repository, please cite our ACL2020 paper:
     title={Grounding Conversations with Improvised Dialogues},
     author={Cho, Hyundong and May, Jonathan},
     booktitle ={Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
+    publisher = {Association for Computational Linguistics}, 
+    location =  {Seattle, Washington, USA},
     year={2020}
 }  
 ```
