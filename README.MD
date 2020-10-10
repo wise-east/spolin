@@ -67,6 +67,10 @@ For instructions and details on training or inferencing with these models, refer
 
 </td></tr> </table>
 
+### ACL Presentation 
+
+[Video recording](https://slideslive.com/38928948/grounding-conversations-with-improvised-dialogues)
+
 
 ### Citation
 
