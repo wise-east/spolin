@@ -92,7 +92,7 @@ pre-commit==1.18.3
 preshed==2.0.1
 promise==2.2.1
 protobuf==3.6.1
-psutil==5.6.3
+psutil==5.6.6
 ptyprocess==0.6.0
 py==1.8.0
 py-gfm==0.1.4
