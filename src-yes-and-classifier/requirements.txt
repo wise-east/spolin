@@ -4,7 +4,7 @@ aspy.yaml==1.3.0
 astor==0.7.1
 atomicwrites==1.3.0
 attrs==19.1.0
-Babel==2.7.0
+Babel==2.9.1
 blis==0.2.4
 boto3==1.9.205
 botocore==1.12.205
