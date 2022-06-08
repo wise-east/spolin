@@ -16,6 +16,12 @@ In the `data` folder, we provide two versions of the SPOLIN training set:
 2. Expanded version: `data/spolin-train.json`
 
 
+#### Update (6/7/2022):
+
+SPOLIN is now available through as a [Parlai task](https://parl.ai/docs/tasks.html#spolin)
+
+It will soon be added to [ConvoKit](https://github.com/CornellNLP/ConvoKit) and [HuggingFace Datasets](https://huggingface.co/datasets).  
+
 #### Update (4/28/2020): 
 
 We make our _yes-and_ classifier from our last iteration that filters out self-_yes-and_s and fine-tuned DialoGPT models available: 
