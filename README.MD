@@ -3,8 +3,8 @@
 
 ### SPOLIN: Spontaneanation Pairs of Learnable ImprovisatioN
 
-This is the repo for the paper ["Grounding Conversations with Improvised Dialogues"]() (ACL2020). 
-SPOLIN is a collection of more than 68,000 "Yes, and" type dialogue pairs extracted from the Spontaneanation podcast by Paul F. Tompkins, the Cornell Movie-Dialogs Corpus, and the SubTle corpus. For more information, refer to our [paper](https://arxiv.org/abs/2004.09544) or our [project page](https://justin-cho.com/spolin).
+This is the repo for the paper ["Grounding Conversations with Improvised Dialogues"](https://aclanthology.org/2020.acl-main.218) (ACL2020). 
+SPOLIN is a collection of more than 68,000 "Yes, and" type dialogue pairs extracted from the Spontaneanation podcast by Paul F. Tompkins, the Cornell Movie-Dialogs Corpus, and the SubTle corpus. For more information, refer to our [paper]([https://arxiv.org/abs/2004.09544](https://aclanthology.org/2020.acl-main.218)) or our [project page](https://justin-cho.com/spolin).
 
 
 #### Available SPOLIN versions:
