@@ -16,13 +16,10 @@ In the `data` folder, we provide two versions of the SPOLIN training set:
 2. Expanded version: `data/spolin-train.json`
 
 
-#### Update (6/7/2022):
-
-SPOLIN is now available via: 
+SPOLIN is available via: 
 - [ParlAI](https://parl.ai/docs/tasks.html#spolin)
 - [HuggingFace Datasets](https://huggingface.co/datasets/wise-east/spolin).  
-
-It will soon be added to [ConvoKit](https://github.com/CornellNLP/ConvoKit). 
+- [ConvoKit](https://convokit.cornell.edu/documentation/spolin.html)
 
 #### Update (4/28/2020): 
 
