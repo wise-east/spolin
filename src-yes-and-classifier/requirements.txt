@@ -54,7 +54,7 @@ imagesize==1.1.0
 importlib-metadata==0.19
 importlib-resources==1.0.2
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==3.1.6
 jmespath==0.9.4
 joblib==1.2.0
 Keras==2.3.0
