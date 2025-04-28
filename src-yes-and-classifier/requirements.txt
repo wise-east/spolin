@@ -43,7 +43,7 @@ google-auth-httplib2==0.0.3
 googleapis-common-protos==1.6.0
 greenlet==0.4.15
 grpcio==1.23.0
-gunicorn==19.9.0
+gunicorn==23.0.0
 gym==0.14.0
 h5py==2.10.0
 httplib2==0.13.1
