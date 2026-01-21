@@ -57,7 +57,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 jmespath==0.9.4
 joblib==1.2.0
-Keras==2.3.0
+Keras==3.12.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 kfac==0.2.0
